@@ -17,9 +17,9 @@ EVENT_LIST_FLAG := true
 ; Artillery
 ; UNIT_SELECTION := {Fast: 0, Heavy: 0, Light: 0, Artillery: 8, Ranged: 0, Rogue: 0}
 ; Heavy Heavy
-; UNIT_SELECTION := {Fast: 0, Heavy: 4, Light: 0, Artillery: 0, Ranged: 0, Rogue: 4}
+UNIT_SELECTION := {Fast: 0, Heavy: 4, Light: 0, Artillery: 0, Ranged: 0, Rogue: 4}
 ; Heavy
- UNIT_SELECTION := {Fast: 0, Heavy: 2, Light: 0, Artillery: 0, Ranged: 0, Rogue: 6}
+; UNIT_SELECTION := {Fast: 0, Heavy: 2, Light: 0, Artillery: 0, Ranged: 0, Rogue: 6}
 ; Ranged
 ; UNIT_SELECTION := {Fast: 0, Heavy: 0, Light: 0, Artillery: 0, Ranged: 4, Rogue: 4}
 
